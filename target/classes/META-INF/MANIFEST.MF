@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: sample
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Nanda
+Implementation-Vendor-Id: com.example.nanda
+Build-Jdk: 1.8.0_152
+Implementation-URL: http://projects.spring.io/spring-boot/sample/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
